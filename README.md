@@ -1,2 +1,2 @@
 # microservicesDotNetCore
-PCO-Microservice project in .Net core
+POC-Microservice project in .Net core
